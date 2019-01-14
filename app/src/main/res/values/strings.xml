@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nasa Recycler View</string>
+    <string name="mars_rover_pictures">Mars Rover Pictures</string>
+</resources>
